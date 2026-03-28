@@ -15,7 +15,7 @@
 - [Windows - Autoruns](Persistencia/Windows/Autoruns.md)
 
 ## 🔍 Captura y Analiss de trafico
-- [Wireshark](Captura-y-analisis-de-trafico/Wireshark.md)
+- [Wireshark](Captura-y-Analisis-de-Trafico/Wireshark.md)
 
 
 ## 📊 SIEM
