@@ -7,6 +7,9 @@
 ## 🔍 Malware Analisis
 - [CFF Explorer](Malware-Analisis/CFF-Explorer.md)
 
+## 🔍 Persistencia
+- [Windows - Startup Apps](Persistencia/Windows/Startup-Apps.md)
+
 
 ## 📊 SIEM
 - [Splunk](siem/splunk.md)
