@@ -12,3 +12,4 @@ Se puede guardar el resultado.
 Ejecutar el archivo y luego compararlo
 
 <img width="1007" height="532" alt="image" src="https://github.com/user-attachments/assets/9dcd09b4-ebbb-42e8-977c-eddd8e0f9a0b" />
+<img width="935" height="326" alt="image" src="https://github.com/user-attachments/assets/a9c66918-0ef0-4880-8bcf-9943b788c62b" />
