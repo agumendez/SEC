@@ -304,6 +304,13 @@ tshark -r captura.pcap -T fields -e ip.dst | sort | uniq -c | sort -rn
 - [FakeNet-NG (Mandiant)](https://github.com/mandiant/flare-fakenet-ng)
 - [NetworkMiner](https://www.netresec.com/?page=NetworkMiner)
 
+
+
+
+---------------
+Para revisar exfiltracion
+<img width="1171" height="584" alt="image" src="https://github.com/user-attachments/assets/8f151c42-24bb-4b8c-8641-ff2ca9fe985a" />
+
 ---
 
 > ⚠️ **Siempre analizá malware en una VM aislada** (sin acceso real a Internet o con red controlada).  
