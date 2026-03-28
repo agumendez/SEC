@@ -1,8 +1,8 @@
 # 🛡️ SOC Tools Knowledge Base
 
 ## 🔍 Forense
-- [Autopsy](forense/autopsy.md)
-- [Velociraptor](forense/velociraptor.md)
+- [Autopsy](Forense/Autopsy.md)
+- [Velociraptor](Forense/Velociraptor.md)
 
 ## 🔍 Malware Analisis
 - [CFF Explorer](Malware-Analisis/CFF-Explorer.md)
