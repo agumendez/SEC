@@ -11,7 +11,7 @@
 
 ## 🔍 Persistencia
 - [Windows - Startup Apps](Persistencia/Windows/Startup-Apps.md)
-
+- [Windows - Autoruns](Persistencia/Windows/Autoruns.md)
 
 
 ## 📊 SIEM
