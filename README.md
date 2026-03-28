@@ -9,6 +9,7 @@
 
 ## 🔍 Persistencia
 - [Windows - Startup Apps](Persistencia/Windows/Startup-Apps.md)
+- [PEstudio](Persistencia/Windows/Pestudio.md)
 
 
 ## 📊 SIEM
