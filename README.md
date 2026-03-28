@@ -9,7 +9,7 @@
 - [PEstudio](Malware-Analisis/PEstudio.md)
 - [Bintext](Malware-Analisis/Bintext.md)
 - [InetSim](Malware-Analisis/InetSim.md)
-
+- [Process Hacker](Malware-Analisis/Process-Hacker.md)
 
 ## 🔍 Persistencia
 - [Windows - Startup Apps](Persistencia/Windows/Startup-Apps.md)
