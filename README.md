@@ -6,7 +6,7 @@
 
 ## 🔍 Malware Analisis
 - [CFF Explorer](Malware-Analisis/CFF-Explorer.md)
-- [PEstudio](Malware-Analisis/Pestudio.md)
+- [PEstudio](Malware-Analisis/PEstudio.md)
 
 
 ## 🔍 Persistencia
