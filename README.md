@@ -6,6 +6,7 @@
 - [INetSim](Malware-Analisis/InetSim.md) — Simula servicios de Internet (DNS, HTTP, SMTP) para capturar el comportamiento de red del malware en un entorno aislado.
 - [PEstudio](Malware-Analisis/PEstudio.md) — Analiza estáticamente ejecutables PE mostrando imports, strings, indicadores y score de sospecha.
 - [Process Hacker](Malware-Analisis/Process-Hacker.md) — Monitor avanzado de procesos que detecta inyección de código, memoria RWX y conexiones de red por proceso.
+- [Process Monitor (ProcMon)](Malware-Analisis/ProcMon.md) — Registra en tiempo real toda la actividad de procesos: archivos tocados, claves de registro modificadas y conexiones de red.
 
 ## 🔁 Persistencia
 - [Autoruns](Persistencia/Windows/Autoruns.md) — Muestra todo lo que se ejecuta automáticamente en Windows para detectar mecanismos de persistencia del malware.
@@ -13,9 +14,6 @@
 
 ## 🌐 Captura y Análisis de Tráfico
 - [Wireshark](Captura-y-Analisis-de-Trafico/Wireshark.md) — Captura y analiza tráfico de red en tiempo real para identificar conexiones C2, exfiltración y protocolos usados por el malware.
-
-## 🔬 Monitoreo del Sistema
-- [Process Monitor (ProcMon)](Monitoreo/ProcMon.md) — Registra en tiempo real toda la actividad de procesos: archivos tocados, claves de registro modificadas y conexiones de red.
 
 ## 🗂️ Forense
 - [Autopsy](Forense/Autopsy.md) — Plataforma de análisis forense digital para examinar discos, recuperar archivos eliminados y analizar artefactos del sistema.
