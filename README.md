@@ -14,6 +14,9 @@
 - [Windows - Startup Apps](Persistencia/Windows/Startup-Apps.md)
 - [Windows - Autoruns](Persistencia/Windows/Autoruns.md)
 
+## 🔍 Captura y Analiss de trafico
+- [Wireshark](Captura-y-analisis-de-trafico/Wireshark.md)
+
 
 ## 📊 SIEM
 - [Splunk](siem/splunk.md)
