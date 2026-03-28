@@ -8,6 +8,7 @@
 - [CFF Explorer](Malware-Analisis/CFF-Explorer.md)
 - [PEstudio](Malware-Analisis/PEstudio.md)
 - [Bintext](Malware-Analisis/Bintext.md)
+- [InetSim](Malware-Analisis/InetSim.md)
 
 
 ## 🔍 Persistencia
