@@ -6,10 +6,12 @@
 
 ## 🔍 Malware Analisis
 - [CFF Explorer](Malware-Analisis/CFF-Explorer.md)
+- [PEstudio](Malware-Analisis/Pestudio.md)
+
 
 ## 🔍 Persistencia
 - [Windows - Startup Apps](Persistencia/Windows/Startup-Apps.md)
-- [PEstudio](Persistencia/Windows/Pestudio.md)
+
 
 
 ## 📊 SIEM
