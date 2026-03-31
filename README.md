@@ -17,6 +17,7 @@
 
 ## 🗂️ Forense
 - [Autopsy](Forense/Autopsy.md) — Plataforma de análisis forense digital para examinar discos, recuperar archivos eliminados y analizar artefactos del sistema.
+- [KAPE]
 - [Velociraptor](Forense/Velociraptor.md) — Framework de respuesta a incidentes y forense en vivo que permite consultar endpoints en escala con VQL.
 
 ## 📊 SIEM
