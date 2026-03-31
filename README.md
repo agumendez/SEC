@@ -7,6 +7,7 @@
 - [PEstudio](Malware-Analisis/PEstudio.md) — Analiza estáticamente ejecutables PE mostrando imports, strings, indicadores y score de sospecha.
 - [Process Hacker](Malware-Analisis/Process-Hacker.md) — Monitor avanzado de procesos que detecta inyección de código, memoria RWX y conexiones de red por proceso.
 - [Process Monitor (ProcMon)](Malware-Analisis/ProcMon.md) — Registra en tiempo real toda la actividad de procesos: archivos tocados, claves de registro modificadas y conexiones de red.
+- [Rundll32]
 
 ## 🔁 Persistencia
 - [Autoruns](Persistencia/Windows/Autoruns.md) — Muestra todo lo que se ejecuta automáticamente en Windows para detectar mecanismos de persistencia del malware.
